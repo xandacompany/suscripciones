@@ -1,0 +1,22 @@
+{
+    "name": "Mundo Ejecutivo Suscripciones",
+    "short_name": "Mundo Ejecutivo Suscripciones",
+    "description": "Mundo Ejecutivo Suscripciones, forma parte de la mayor comunidad empresarial de México.",
+    "start_url": "mundoejecutivo.com.mx/suscripciones",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait",
+    "icons": [
+        {
+        "src": "assets/images/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        },
+        {
+        "src": "assets/images/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ]
+}
